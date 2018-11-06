@@ -49,7 +49,7 @@ body{
 #container2{
 	background-color: 	rgb(255,215,0);
 	width: 60%;
-	height: 80%;
+	height: auto;
 	align-self: center;
 	top: 10%;
 	box-shadow: 6px 6px 1px #AEB3B1;
